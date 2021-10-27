@@ -1,0 +1,123 @@
+body{
+    background: linear-gradient(to right, blue 0%, lightblue 100%);
+}
+#wapper{
+    font-size: 25px;
+    font-family: fantasy;
+    width: 80%;
+    margin-top: 30px;
+    color: white;
+    
+}
+#duck img{
+    position: absolute;
+    margin-top: 92px;
+}
+nav{
+    position: absolute;
+    list-style:none;
+    text-align:center;
+    margin-top: 0px;
+    background: black;
+    padding: 15px;
+    width: 1857px;
+}
+nav ul{
+    
+    display:inline;
+    
+}
+nav li{
+    color: white;
+    display: inline-block;
+    background-color: grey;
+    padding: 20px;
+    margin-right: 10px;
+    font-size: 20px;
+    
+}
+#info2 header{
+    background: linear-gradient(to right, black 0%, grey 100%);
+    color: white;
+    margin-top: 275px;
+    font-size: 70px;
+    height: 100px;
+    font-family: cursive;
+}
+#info3 img{
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 50px;
+    border: 2px solid black;
+    border-radius: 25px
+    
+}
+div#d2 {
+    width: 450px;
+    height: 350px;
+    position: absolute;
+    border-width: 5px 5px 5px 5px;
+    background: linear-gradient(to right, lightblue 0%, blue 100%);
+    margin: 0px 0px 0px 0px;
+  
+  }
+  div#d3 {
+    width: 1486px;
+    height: 350px;
+    position: absolute;
+    border-width: 5px 5px 5px 5px;
+    background: white;
+    margin-left: 400px;
+  
+  }
+ #d3 header{
+     font-family: fantasy;
+     font-size: 25px;
+     font-weight: bolder;
+     margin: 50px;
+ } 
+ #d3 p{
+    font-family: cursive;
+    font-size: 23px;
+    font-weight: bolder;
+    margin: 50px;
+} 
+div#d4{
+    background:linear-gradient(to right, grey 0%, black 100%);
+    margin-top: 350px;
+    width: 100%;
+    height: 65px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+div#d5{
+    background:black;
+    margin-top: 0px;
+    width: 100%;
+    height: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+#d5 nav li{
+    color: white;
+}
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+nav a:hover{
+    color: aqua;
+    border-bottom: 3px solid blue;
+}
+#f form{
+    text-align: right;
+}
+div#f{
+    color: white;
+    float: right;
+}
